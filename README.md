@@ -1,6 +1,6 @@
 # Rapport
 
-[Rapport PDF](https://github.com/TCoudreau/td-linux/blob/main/TD5-Rapport.pdf)
+[Rapport PDF (LaTeX)](https://github.com/TCoudreau/td-linux/blob/main/TD5-Rapport.pdf)
 
 ## Exercise 1: Working Directory
 
